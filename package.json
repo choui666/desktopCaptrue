@@ -1,0 +1,22 @@
+{
+  "name": "desktopcaptrue",
+  "version": "1.0.0",
+  "description": "web端桌面共享",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choui666/desktopCaptrue.git"
+  },
+  "keywords": [
+    "桌面共享"
+  ],
+  "author": "choui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/choui666/desktopCaptrue/issues"
+  },
+  "homepage": "https://github.com/choui666/desktopCaptrue#readme"
+}

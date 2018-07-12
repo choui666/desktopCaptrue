@@ -1,0 +1,23 @@
+{
+  "name": "Screensharing Extension by Zego",
+  "description": "Screensharing Extension for Zego webrtc",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "icons": {
+    "128": "icon.png"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content-script.js"]
+    }
+  ],
+  "permissions": [
+    "desktopCapture",
+    "file://*/*",
+    "tabs"
+  ]
+}
