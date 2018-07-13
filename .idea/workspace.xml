@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da5ab641-533b-4bb1-9ffb-dc3824e8b356" name="Default" comment="ignore">
-      <change afterPath="$PROJECT_DIR$/exmple/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exmple/index.js" afterDir="false" />
+    <list default="true" id="da5ab641-533b-4bb1-9ffb-dc3824e8b356" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exmple/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exmple/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,12 +17,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exmple/index.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/doc/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="75">
+              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -30,7 +30,7 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="591">
+            <state relative-caret-position="765">
               <caret line="139" column="74" lean-forward="true" selection-start-line="139" selection-start-column="74" selection-end-line="139" selection-end-column="74" />
               <folding>
                 <element signature="e#121#916#0" />
@@ -68,15 +68,15 @@
         </entry>
       </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exmple/index.js">
+        <entry file="file://$PROJECT_DIR$/doc/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
+            <state relative-caret-position="2355">
               <caret line="157" column="24" selection-start-line="157" selection-start-column="3" selection-end-line="157" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SECOND">
@@ -134,7 +134,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,6 +145,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -194,6 +194,7 @@
       <workItem from="1531396702782" duration="342000" />
       <workItem from="1531399510369" duration="2112000" />
       <workItem from="1531474534644" duration="927000" />
+      <workItem from="1531475520318" duration="181000" />
     </task>
     <task id="LOCAL-00001" summary="ignore">
       <created>1531391486783</created>
@@ -216,23 +217,29 @@
       <option name="project" value="LOCAL" />
       <updated>1531400509280</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="添加示例">
+      <created>1531475565826</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1531475565826</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9165000" />
+    <option name="totallyTimeSpent" value="9346000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="160" y="227" width="1233" height="795" extended-state="0" />
-    <editor active="true" />
+    <frame x="160" y="54" width="1233" height="795" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2920792" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5017241" side_tool="true" weight="0.6585366" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49827588" weight="0.38825214" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -241,10 +248,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,7 +262,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="ignore" />
+    <MESSAGE value="添加示例" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加示例" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -263,6 +271,68 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/doc/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="139" column="74" lean-forward="true" selection-start-line="139" selection-start-column="74" selection-end-line="139" selection-end-column="74" />
+          <folding>
+            <element signature="e#121#916#0" />
+            <element signature="e#174#316#0" />
+            <element signature="e#199#306#0" />
+            <element signature="e#344#582#0" />
+            <element signature="e#369#572#0" />
+            <element signature="e#719#806#0" />
+            <element signature="e#829#908#0" />
+            <element signature="e#2126#2845#0" />
+            <element signature="e#2517#2553#0" />
+            <element signature="e#2574#2615#0" />
+            <element signature="e#2634#2673#0" />
+            <element signature="e#2693#2733#0" />
+            <element signature="e#2753#2793#0" />
+            <element signature="e#2799#2839#0" />
+            <element signature="e#2868#3252#0" />
+            <element signature="e#3091#3225#0" />
+            <element signature="e#3147#3215#0" />
+            <element signature="e#3281#3776#0" />
+            <element signature="e#3337#3676#0" />
+            <element signature="e#3682#3770#0" />
+            <element signature="e#3816#4206#0" />
+            <element signature="e#3839#3872#0" />
+            <element signature="e#4002#4089#0" />
+            <element signature="e#4112#4198#0" />
+            <element signature="e#4250#4516#0" />
+            <element signature="e#4322#4370#0" />
+            <element signature="e#4407#4445#0" />
+            <element signature="e#4451#4510#0" />
+            <element signature="e#5067#5202#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2355">
+          <caret line="157" column="24" selection-start-line="157" selection-start-column="3" selection-end-line="157" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SECOND">
@@ -301,16 +371,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exmple/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="591">
+        <state relative-caret-position="765">
           <caret line="139" column="74" lean-forward="true" selection-start-line="139" selection-start-column="74" selection-end-line="139" selection-end-column="74" />
           <folding>
             <element signature="e#121#916#0" />
@@ -346,9 +409,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exmple/index.js">
+    <entry file="file://$PROJECT_DIR$/doc/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
+        <state relative-caret-position="2355">
           <caret line="157" column="24" selection-start-line="157" selection-start-column="3" selection-end-line="157" selection-end-column="24" />
         </state>
       </provider>
@@ -360,6 +423,13 @@
             <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
         </state>
       </provider>
     </entry>
