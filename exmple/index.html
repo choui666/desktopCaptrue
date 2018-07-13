@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<video id="previewVideo" autoplay muted playsinline></video>
+<button onclick="start()">开始</button>
+<button  onclick="stop()">停止</button>
+</body>
+<script src="index.js"></script>
+<script>
+   function start() {
+        window.CaptureClient.start('screen',function(suc,stream){
+            console.log('screen:'+suc);
+            suc && (document.getElementById('previewVideo').srcObject = stream);
+        })
+    }
+   function stop() {
+       window.CaptureClient.stop()
+   }
+
+
+</script>
+</html>
